@@ -8,6 +8,6 @@ Excercise3 package includes Triangle.java & TriangleTester.java: : Checks if the
 IllegalTriangleSideException.java: A custom exception used by the Triangle class to handle invalid side lengths.
 
 Refrences and resources used to help me complete the homework: 
-https://ww.youtube.com/watch?v=ceGnVDrMy1A (try catch explained)![image](https://github.com/DylanLong12/Chapter4/assets/132924658/636df5c1-5e8b-4f31-ba5e-62b1abfe31a9)
+https://youtu.be/ceGnVDrMy1A?si=YcaX_ejQ9SpZD4P5
 
 <img width="366" alt="image" src="https://github.com/DylanLong12/Chapter4/assets/132924658/d270ccd5-d88e-4661-828b-7c80e755e031">
