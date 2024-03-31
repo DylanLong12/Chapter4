@@ -14,3 +14,10 @@ https://youtu.be/ceGnVDrMy1A?si=sAc33sh63-Xy08Xo (try catch explained)
 <img width="366" alt="image" src="https://github.com/DylanLong12/Chapter4/assets/132924658/d270ccd5-d88e-4661-828b-7c80e755e031">
 
 the screenshot above helped me use the random method to generate random values to fill array in exercise 2.
+
+
+<img width="492" alt="Screenshot 2024-03-31 at 12 49 20 PM" src="https://github.com/DylanLong12/Chapter4/assets/132924658/6175543c-7bb9-47cc-b2a4-899ee65dfc50">
+
+<img width="515" alt="Screenshot 2024-03-31 at 12 50 07 PM" src="https://github.com/DylanLong12/Chapter4/assets/132924658/ae347c8b-9ea8-4884-b73c-da6dad66e5ab">
+
+<img width="1073" alt="Screenshot 2024-03-31 at 12 57 19 PM" src="https://github.com/DylanLong12/Chapter4/assets/132924658/c2c30b34-17d3-447b-af82-670ce1dc7be6">
