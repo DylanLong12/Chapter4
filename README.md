@@ -12,3 +12,4 @@ https://youtu.be/ceGnVDrMy1A?si=sAc33sh63-Xy08Xo (try catch explained)
 
 
 <img width="366" alt="image" src="https://github.com/DylanLong12/Chapter4/assets/132924658/d270ccd5-d88e-4661-828b-7c80e755e031">
+the screenshot above helped me use the random method to generate random values to fill array in exercise 2.
